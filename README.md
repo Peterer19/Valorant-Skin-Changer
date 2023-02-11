@@ -1,6 +1,8 @@
+
+
 # Valorant Skin Changer
 
-## <a id="screenshots"></a>ðŸ“¸ ã€¢ Screenshots
+## <a id="screenshots"></a> Screenshots
 
 ![Screenshot](https://i.imgur.com/RTJHEGU.png)
 
