@@ -1,12 +1,12 @@
 # Valorant Skin Changer
 
-## <a id="screenshots"></a>📸 〢 Screenshots
+## <a id="screenshots"></a>ðŸ“¸ ã€¢ Screenshots
 
 ![Screenshot](https://i.imgur.com/RTJHEGU.png)
 
 ---
 
-## <a id="download"></a>📁 〢 Download
+## <a id="download"></a>ðŸ“ ã€¢ Download
 
 Read everything carefully before you click anything.
 
@@ -15,7 +15,7 @@ Read everything carefully before you click anything.
 
 ---
 
-## <a id="installation"></a>⚙️ 〢 Installation
+## <a id="installation"></a>âš™ï¸ ã€¢ Installation
 
 1. Extract the `.rar` file
 2. Drop the `Skin Changer.dll` on the Hookloader while you have VALORANT open!
@@ -28,3 +28,4 @@ Read everything carefully before you click anything.
 - Last version of Windows Update
 
 ---
+ 
