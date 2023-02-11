@@ -8,6 +8,8 @@
 
 # Valorant Skin Changer
 
+It opens an EXTERNAL Window where you can select skins for the Weapons!
+
 ## <a id="screenshots"></a> Screenshots
 
 ![Screenshot](https://i.imgur.com/RTJHEGU.png)
